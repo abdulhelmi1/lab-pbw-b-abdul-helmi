@@ -1,0 +1,39 @@
+h3{
+    text-align: center;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: solid 3px black;
+    float: right;
+    width: 40%;
+    height: 40%;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: blanchedalmond;
+}
+td, th{
+    border: solid 1px black;
+}
+table{
+    padding-left: 5%;
+}
+img{
+    width: 70%;
+    height: 70%;
+}
+header{
+    text-align: center;
+    width: 100%;
+    background-color: beige;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    background-color: beige;}
